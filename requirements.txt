@@ -1,0 +1,4 @@
+ipdb
+ipython
+psycopg2>=2.4
+wheel>=0.22
