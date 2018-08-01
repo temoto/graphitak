@@ -4,6 +4,7 @@ What
 Text generator that uses real language corpus to produce close to natural texts.
 
 Current algorithm:
+
 * use word from special list to open a sentence
 * use one of top 1000 3-grams to complete last word
 * repeat from step 2 until required number of words is added to current phrase (sentence)
